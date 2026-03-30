@@ -3,7 +3,7 @@
 A modern and responsive business website built with React and Vite to showcase services, business information, and contact options.
 
 ## Live Demo
-[Visit the website](https://sol-shine-website.vercel.app)
+[Visit the website](https://www.solandshinepsl.com/)
 
 ## Overview
 This project was created as a practical frontend website focused on clean design, responsive layout, and a professional business-style presentation.
