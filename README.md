@@ -1,16 +1,38 @@
-# React + Vite
+# Sol Shine Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive business website built with React and Vite to showcase services, business information, and contact options.
 
-Currently, two official plugins are available:
+## Live Demo
+[Visit the website](https://sol-shine-website.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Overview
+This project was created as a practical frontend website focused on clean design, responsive layout, and a professional business-style presentation.
 
-## React Compiler
+## Technologies Used
+- React
+- Vite
+- JavaScript
+- CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
+- Responsive layout
+- Clean and modern interface
+- Business-style presentation
+- Services and information sections
+- Contact-focused structure
 
-## Expanding the ESLint configuration
+## Project Goal
+The goal of this project was to improve my frontend development skills by building a modern website with a structure that could be useful for a real business.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## What I Learned
+- Building a frontend project with React and Vite
+- Improving page structure and UI presentation
+- Organizing components and files better
+- Making the website cleaner and more user-friendly
+
+## Project Setup
+
+```bash
+npm install
+npm run dev
+
