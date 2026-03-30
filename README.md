@@ -1,3 +1,5 @@
+
+```md
 # Sol Shine Website
 
 A modern and responsive business website built with React and Vite to showcase services, business information, and contact options.
@@ -30,9 +32,12 @@ The goal of this project was to improve my frontend development skills by buildi
 - Organizing components and files better
 - Making the website cleaner and more user-friendly
 
+```md
 ## Project Setup
 
 ```bash
 npm install
 npm run dev
-
+```md
+## Author
+Oscar Andres Reinoso
